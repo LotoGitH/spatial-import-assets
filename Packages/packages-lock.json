@@ -7,6 +7,12 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "1.0.0-exp.4",
       "depth": 1,
@@ -184,7 +190,7 @@
       "url": "https://packages.unity.com"
     },
     "io.spatial.unitysdk": {
-      "version": "1.19.0",
+      "version": "1.26.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
